@@ -38,4 +38,4 @@ BeautifulSoup & Requests – Web scraping de la fuente de datos.
 
 NumPy – Conversión de divisas y cálculos.
 
-SQLite / PostgreSQL – Almacenamiento en base de datos.
+SQLite  – Almacenamiento en base de datos.
